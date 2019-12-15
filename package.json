@@ -2,7 +2,7 @@
   "name": "@agoransson/androidlog",
   "version": "1.0.1",
   "description": "Just a simple logger util that tries to mimick the way android.util.Log.",
-  "main": "index.js",
+  "main": "lib/Log.js",
   "scripts": {
     "build": "rm -rf lib/ && babel ./src/ --out-dir ./lib/ --ignore ./node_modules,./.babelrc,./package.json,./npm-debug.log,/.gitignore --copy-files",
     "prepublish": "babel src --out-dir lib",
