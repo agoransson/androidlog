@@ -1,6 +1,6 @@
 {
   "name": "@agoransson/androidlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a simple logger util that tries to mimick the way android.util.Log.",
   "main": "index.js",
   "scripts": {
